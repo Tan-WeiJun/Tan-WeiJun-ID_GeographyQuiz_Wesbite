@@ -1,6 +1,15 @@
 # Geography Quiz Website
-## Tables of Content
 
+## Tables of Content
+* [Introduction](#introduction)
+* [Design Process](#design-process)
+* [User Stories](#user-stories)
+* [Existing Features](#existing-features)
+* [Further Improvement in the Future](#further-improvement-in-the-future)
+* [Technologies Used](#technologies-used)
+* [Testing](#testing)
+* [Credits](#credits)
+* [Acknowledgements](#acknowledgements)
 ## Introduction
 Geography subject is one of the least popular subjects and tend to be overlooked upon by more popular subjects such as math and science. Hence, there are not many platforms for users who are interested in geography. This geography quiz website mitigates the issue by having additional platform for those who are interested in geography, which allows them to test themselves on geography-related questions. This in turn provide these people with an online outlet to improve themselves.
 
@@ -20,7 +29,7 @@ No | Feature | Description
 1 | _Quiz_ | Allow users to test themselves on geography knowledge
 2 | _Leaderboard_ | Allow users to view top scoring individuals
 
-## Additional Features that can be implemented in the future
+## Further Improvement in the Future
 No | Feature | Description
 ------------ | ------------ | ------------
 1 | _Time Limit_ | Forces users to answer the questions in a timeframe
